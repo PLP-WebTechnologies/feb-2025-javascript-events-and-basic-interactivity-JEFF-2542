@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  #hoverBox {
+    padding: 15px;
+    background-color: #add8e6;
+    margin: 10px 0;
+    transition: background-color 0.3s ease;
+  }
+  
+  #hoverBox:hover {
+    background-color: #ffa07a;
+    cursor: pointer;
+  }
+  
+  .tab-content {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+  }
